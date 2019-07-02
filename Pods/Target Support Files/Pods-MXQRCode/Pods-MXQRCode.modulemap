@@ -1,0 +1,6 @@
+framework module Pods_MXQRCode {
+  umbrella header "Pods-MXQRCode-umbrella.h"
+
+  export *
+  module * { export * }
+}
